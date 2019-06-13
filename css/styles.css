@@ -1,12 +1,12 @@
 @charset "UTF-8";
 
 body{
-	background-color:#29293f;
-	color:#f9d732;
+	background-color:#400040;
+	color:#ff0000;
 	font-family:'Roboto',sans-serif;
 }
 h1{
-	color:#fff;
+	color:#ffff00;
 }
 span{
 	font-family:'PT Sans Narrow',sans-serif;
